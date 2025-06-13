@@ -19,6 +19,7 @@ User Profile: Edit profile, view post history, switch themes
 Theme Selection: Toggle light/dark mode (GetStorage)
 
 🛡️ Admin-Facing
+
 Admin Login: Separate secure access for administrators
 
 Post Moderation: Approve/reject forum and startup posts
@@ -30,6 +31,7 @@ User Control: Search and review registered users
 Analytics View: Visual insight into post and startup data
 
 🛠️ Tech Stack
+
 Frontend: Flutter (Dart)
 
 Backend: Firebase Firestore, Firebase Auth, Firebase Storage
@@ -42,27 +44,40 @@ Image Handling: image_picker, image_cropper
 
 Routing & Theming: Custom routing, theme_controller
 
-
 🚀 Getting Started
+
 Prerequisites
+
 Flutter SDK installed
+
 Firebase project setup (with iOS/Android configs)
+
 Dependencies: get, cloud_firestore, firebase_auth, firebase_storage, etc.
 
 Installation
+
 git clone https://github.com/your-username/startconnect-startupforumapp.git
+
 cd startconnect-startupforumapp
+
 flutter pub get
+
 flutter run
 
 📸 Screenshots
+
 (In Protogram_Presentation.pdf)
 
 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 🙌 Acknowledgements
+
 Flutter
+
 Firebase
+
 GetX
+
 GetStorage
