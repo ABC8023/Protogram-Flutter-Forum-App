@@ -1,5 +1,7 @@
 📱 Features
+
 👤 User-Facing
+
 Authentication: Sign up, login, password reset (Firebase Auth)
 
 Post Creation: Share forum posts and startup pitches with images
