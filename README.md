@@ -54,7 +54,7 @@ flutter pub get
 flutter run
 
 📸 Screenshots
-(Insert screenshots of login, feed, create post, admin panel, etc.)
+(In Protogram_Presentation.pdf)
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
