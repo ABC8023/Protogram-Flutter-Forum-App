@@ -40,17 +40,6 @@ Image Handling: image_picker, image_cropper
 
 Routing & Theming: Custom routing, theme_controller
 
-📂 Project Structure (Overview)
-lib/
-├── admin/                  # Admin dashboard and screens
-├── user/                   # User-facing screens
-├── controllers/            # State and logic controllers
-├── services/               # Firebase service logic
-├── themes/                 # Theme management
-├── models/                 # Data models (optional)
-├── wrapper.dart            # Auth state routing
-└── main.dart               # App entry point
-
 
 🚀 Getting Started
 Prerequisites
